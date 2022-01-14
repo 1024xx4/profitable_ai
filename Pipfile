@@ -11,6 +11,8 @@ japanize-matplotlib = "*"
 jupyter = "*"
 scikit-learn = "*"
 seaborn = "*"
+pydotplus = "*"
+xgboost = "*"
 
 [dev-packages]
 
