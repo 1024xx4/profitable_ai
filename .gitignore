@@ -130,3 +130,9 @@ dmypy.json
 
 # IDE
 .idea
+
+# File
+bank.zip
+bank.csv
+bank-full.csv
+bank-names.txt
