@@ -13,6 +13,9 @@ scikit-learn = "*"
 seaborn = "*"
 pydotplus = "*"
 xgboost = "*"
+openpyxl = "*"
+mlxtend = "*"
+networkx = "*"
 
 [dev-packages]
 
